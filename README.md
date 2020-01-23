@@ -37,6 +37,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+[![Netflix landing page clone][product-screenshot]](https://codemaster7.github.io/netflix-clone/)
+
 
 A basic clone of the Netflix landing page. This project uses JavaScript, HTML, CSS.
 
@@ -93,3 +95,4 @@ Project Link: [https://github.com/CodeMaster7/netflix-clone](https://github.com/
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sambonfanti/
+[product-screenshot]: https://i.postimg.cc/qM8vNr6K/netflix-clone.jpg
